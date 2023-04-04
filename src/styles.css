@@ -13,6 +13,7 @@ body{
     font-family: sans-serif;    
 }
 
+
 .container{
     max-width: 500px;
     margin: 30px auto;
@@ -23,6 +24,10 @@ body{
     border-radius: 5px;
 }
 
+
+
+
+/*Style boton*/
 .btn {
     display: inline-block;
     background: #000;
