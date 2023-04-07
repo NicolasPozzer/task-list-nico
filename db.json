@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar nuestro primer modulo de angular",
-      "day": "Agosto 5 a las 12:00",
-      "reminder": true
+      "text": "dfsdf",
+      "day": "dsf",
+      "reminder": true,
+      "id": 1
     },
     {
-      "text": "fsfs",
-      "day": "fsfs",
-      "reminder": true,
+      "text": "dfsdf",
+      "day": "dsf",
+      "reminder": false,
       "id": 2
+    },
+    {
+      "text": "dfsdf",
+      "day": "dsf",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
