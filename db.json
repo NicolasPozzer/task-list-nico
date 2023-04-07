@@ -11,12 +11,6 @@
       "text": "Hacer las compras del super",
       "day": "Agosto 5 a las 07:00",
       "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Investigar sobre Boostrap",
-      "day": "Agosto 5 a las 13:00",
-      "reminder": false
     }
   ]
 }

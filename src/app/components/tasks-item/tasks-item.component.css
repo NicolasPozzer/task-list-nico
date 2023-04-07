@@ -5,9 +5,10 @@
     cursor: pointer;
 }
 
+/*Color del borde izquierdo de tarea*/
 .task.reminder{
 
-    border-left: 5px solid green;
+    border-left: 5px solid rgb(128, 31, 111);
 }
 
 .task h3{
